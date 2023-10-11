@@ -1,0 +1,16 @@
+
+
+
+.modal-footer>.btn
+{
+    margin-right: 1vw;
+}
+#btn1
+{
+    margin: 1vw;
+    float: left;
+}
+#ul
+{
+    float: right;
+}
